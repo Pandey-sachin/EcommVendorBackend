@@ -1,0 +1,22 @@
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+
+# dotenv environment variable files
+.env
+.env.*.local
+
+
+# Editor directories and files
+.idea/
+.vscode/
+
+
+# TypeScript specific
+*.tsbuildinfo
+
+# Logs and lockfiles
+package-lock.json
+yarn.lock
